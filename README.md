@@ -11,8 +11,7 @@ This repo shows that [YOLOv8](https://github.com/ultralytics/ultralytics) works 
 
 Anyway, run it on your browser !!
 
-https://lilacs2039.github.io/ONNX-YOLOv8-Object-Detection/index.html
-
+https://lilacs2039.github.io/YOLOv8-browser/index.html
 
 
 # Installation/Usage

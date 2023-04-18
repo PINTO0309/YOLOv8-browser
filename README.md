@@ -28,7 +28,7 @@ The original YOLO model is in `pt` format, so please convert it to `onnx` format
 
 
 
-# Limitations
+# Issue
 
 - It did not work with the **webgl backend** of onnxruntime-web. (Because certain operations of yolov8n were not supported.)
 
